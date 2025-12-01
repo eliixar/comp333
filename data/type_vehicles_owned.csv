@@ -1,0 +1,77 @@
+﻿"Vehicles and charging stations owned by Canadian households 1"
+"Frequency: Every 2 years"
+"Table: 38-10-0173-01"
+"Release date: 2025-10-23"
+"Geography: Canada, Province or territory, Census metropolitan area, Census metropolitan area part"
+""
+""
+
+"Geography","Newfoundland and Labrador",,"Prince Edward Island",,"Nova Scotia",,"New Brunswick",,"Quebec",,"Ontario",,"Manitoba",,"Saskatchewan",,"Alberta",,"British Columbia",
+"Vehicles","2021","2023","2021","2023","2021","2023","2021","2023","2021","2023","2021","2023","2021","2023","2021","2023","2021","2023","2021","2023"
+,"Percent",,,,,,,,,,,,,,,,,,,
+"Had one or more vehicles 2","94","88","93","94","91","91","94","92","88","86","89","88","91","87","93","93","95","94","92","90"
+"Had at least one gasoline or diesel powered vehicle 2 3","93","86","92","92","90","90","93","91","86","81","88","85","91","86","93","92","94","93","89","85"
+"Had one gasoline or diesel vehicle 2","45","43","39","44","44","47","42","41","45","47","40","43","39","44","37","40","34","38","44","47"
+"Had two gasoline or diesel vehicles 2","37","31","37","34","31","32","37","37","29","27","35","31","35","31","37","35","40","38","31","27"
+"Had three or more gasoline or diesel vehicles 2","11","13","16","13","15","11","15","13","11","8","13","11","17","11","18","17","20","17","14","11"
+"Had at least one type of electric vehicle, including hybrid vehicles 2 3","3E","6E","3E","8","F","7","3E","6","6","12","4","8","F","5E","F","6","3","5","9","15"
+"Had at least one type of hybrid vehicle 2","F","4E","3E","5E","F","5E","2E","5E","4","7","3","5","F","4E","F","5E","2","4","5","8"
+"Had at least one non-plugin hybrid vehicle 4","F","75","97","82","F","89","F","76","60","60","82","79","F","81","F","87","91","89","78","79"
+"Had one non-plugin hybrid vehicle 5","F","97","95","92","F","97","F","97","95","91","92","89","F","92","F","95","90","87","95","91"
+"Had two or more non-plugin hybrid vehicles 5","F","F","F","F","F","F","F","F","F","F","F","11E","F","F","F","F","F","F","F","F"
+"Had at least one plugin hybrid vehicle 4","F","F","F","F","F","F","F","F","43","42","19","23","F","F","F","F","F","F","23E","25"
+"Had one plugin hybrid vehicle 6","F","F","F","F","F","F","F","F","99","98","100","95","F","F","F","F","F","F","100","95"
+"Had two or more plugin hybrid vehicles 6","F","F","F","F","F","F","F","F","F","F","F","F","F","F","F","F","F","F","F","F"
+"Had at least one pure electric vehicle 2","F","F","F","F","F","F","F","F","2","6","1","3","F","F","F","F","F","2E","4","7"
+"Had one pure electric vehicle 7","F","F","F","F","F","F","F","F","94","91","96","92","F","F","F","F","F","87","93","83"
+"Had two or more pure electric vehicles 7","F","F","F","F","F","F","F","F","F","F","F","F","F","F","F","F","F","F","F","F"
+,"Kilometres",,,,,,,,,,,,,,,,,,,
+"Average distance most frequently used pure electric vehicle driven in previous year 8","..","F","..","F","..","F","..","F","..","15,983","..","12,914","..","F","..","F","..","F","..","13,127"
+,"Percent",,,,,,,,,,,,,,,,,,,
+"Pure electric vehicles charged at home 9 10","..","F","..","F","..","F","..","F","..","96","..","91","..","F","..","F","..","95","..","90"
+"Pure electric vehicles charged at work  9 10","..","F","..","F","..","F","..","F","..","18","..","19E","..","F","..","F","..","F","..","F"
+"Pure electric vehicles charged at a publicy-accessible charging station 9 10","..","F","..","F","..","F","..","F","..","70","..","65","..","F","..","F","..","F","..","68"
+"Pure electric vehicles charged at some other location 9 10","..","F","..","F","..","F","..","F","..","10E","..","F","..","F","..","F","..","F","..","F"
+"Had at least one charging station at home 2","F","F","F","F","F","F","F","F","3","8","1","3","F","F","F","F","F","2E","4","8"
+"Had at least one Level 1 charging station 11 12 13","F","F","F","F","F","F","F","F","35","33","48","52","F","F","F","F","F","F","56","46"
+"Had at least one Level 2 charging station 11 12 14","F","F","F","F","F","F","F","F","69","71","56","54","F","F","F","F","F","F","45","58"
+,"Number",,,,,,,,,,,,,,,,,,,
+"Total number of charging stations at home","F","F","F","F","F","F","F","F","136,327","322,287","73,539","190,282","F","F","F","F","F","38,739E","79,972","181,579"
+"Number of Level 1 charging stations at home 13","F","F","F","F","F","F","F","F","43,965","109,819","33,858E","93,853","F","F","F","F","F","F","44,171","77,619"
+"Number of Level 2 charging stations at home 14","F","F","F","F","F","F","F","F","92,362","212,468","39,681","96,428","F","F","F","F","F","F","35,801","103,960"
+,"Percent",,,,,,,,,,,,,,,,,,,
+"Had one vehicle 2","45","42","38","42","43","46","41","39","44","46","39","42","39","43","37","39","33","36","43","43"
+"Had two vehicles 2","38","32","38","36","32","33","38","38","31","31","36","33","36","32","37","37","42","40","33","34"
+"Had three vehicles 2","6E","9","9","11","9","8","9","10","8","7","10","8","9","9","13","11","13","12","10","9"
+"Had four vehicles 2","F","F","5E","F","4E","F","3E","F","3","2","3","3","5E","F","3E","5E","4","3","4","2"
+"Had five or more vehicles 2","F","F","F","F","F","F","3E","F","1","1","1","1","F","F","F","F","3E","2E","2","2E"
+"Did not have any vehicles 2","6","12","7","6","9","9","6","8","12","14","11","12","9","13","7","7","5","6","8","10"
+
+Symbol legend:
+.., not available for a specific reference period
+E, use with caution
+F, too unreliable to be published
+
+
+
+
+Footnotes:
+1,"Source: Statistics Canada, Households and the Environment Survey"
+2,"As a percentage of all households."
+3,"May add up to more than 100% as some households have more than one type of vehicle."
+4,"As a percentage of households that had any type of hybrid vehicle."
+5,"As a percentage of households that had a non-plugin hybrid vehicle."
+6,"As a percentage of households that had a plugin hybrid vehicle."
+7,"As a percentage of households that had a pure electric vehicle."
+8,"Excludes pure electric vehicles where the distance driven was not reported."
+9,"Adds up to more than 100% as more than one charging location could be reported."
+10,"Excludes households that did not report all locations at which their pure electric vehicles were charged."
+11,"As a percentage of households that had a charging station at home."
+12,"May add up to more than 100% as some households have more than one type of charging station at home."
+13,"Level 1 charging stations use 120 volts and recharge a rechargeable vehicle at a rate of about 200 kilometres of range in 20 hours."
+14,"Level 2 charging stations use 240 volts and recharge a rechargeable vehicle at a rate of about 30 kilometres of range an hour."
+
+
+
+"How to cite: Statistics Canada. Table 38-10-0173-01  Vehicles and charging stations owned by Canadian households"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3810017301
