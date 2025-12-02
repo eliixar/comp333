@@ -1,0 +1,133 @@
+﻿"Vehicle registrations, by type of vehicle and fuel type 1 2 3",,,,
+Frequency: Annual,,,,
+Table: 23-10-0308-01,,,,
+Release date: 2025-10-17,,,,
+"Geography: Canada, Province or territory",,,,
+,,,,
+,,,,
+,,,,
+,Vehicle Type,"Total, road motor vehicle registrations",,
+,Fuel Type,Battery electric,Hybrid electric,Plug-in hybrid electric
+,Statistics,Number of vehicles,Number of vehicles,Number of vehicles
+Geography,Reference period,,,
+Newfoundland and Labrador,2017,34,657,83
+Newfoundland and Labrador,2018,38,736,82
+Newfoundland and Labrador,2019,51,"1,087",94
+Newfoundland and Labrador,2020,87,"1,097",118
+Newfoundland and Labrador,2021,157,"1,519",179
+Newfoundland and Labrador,2022,369,"2,232",315
+Newfoundland and Labrador,2023,783,"3,539",523
+Newfoundland and Labrador,2024,"1,234","5,545",881
+Prince Edward Island 4 5,2017,16,679,30
+Prince Edward Island 4 6,2018,24,698,37
+Prince Edward Island 4 7,2019,42,733,53
+Prince Edward Island 4 8,2020,73,755,75
+Prince Edward Island 4 9,2021,228,"1,016",131
+Prince Edward Island 4 10,2022,500,"1,186",185
+Prince Edward Island 4 11,2023,765,"1,572",316
+Prince Edward Island 4 12,2024,"1,087","2,109",572
+Nova Scotia,2017,53,"3,397",183
+Nova Scotia,2018,76,"3,721",221
+Nova Scotia,2019,132,"4,150",275
+Nova Scotia,2020,305,"4,886",397
+Nova Scotia,2021,630,"6,149",596
+Nova Scotia,2022,"1,280","7,829",943
+Nova Scotia,2023,"2,366","9,914","1,411"
+Nova Scotia,2024,"3,789","13,814","2,441"
+New Brunswick,2017,39,"2,211",184
+New Brunswick,2018,60,"2,376",212
+New Brunswick,2019,122,"2,707",267
+New Brunswick,2020,238,"3,177",345
+New Brunswick,2021,466,"4,205",466
+New Brunswick,2022,935,"5,484",731
+New Brunswick,2023,"1,767","7,350","1,219"
+New Brunswick,2024,"2,902","10,407","2,332"
+Quebec ,2017,"7,579","36,749","11,278"
+Quebec ,2018,"13,624","42,696","18,133"
+Quebec ,2019,"26,530","49,219","28,311"
+Quebec ,2020,"42,719","55,919","38,729"
+Quebec ,2021,"61,990","66,504","48,847"
+Quebec ,2022,"86,058","79,551","61,240"
+Quebec ,2023,"127,061","94,536","72,579"
+Quebec ,2024,"201,548","112,162","93,562"
+Ontario ,2017,"5,816","65,223","7,717"
+Ontario ,2018,"11,579","71,923","14,666"
+Ontario ,2019,"18,079","81,283","19,215"
+Ontario ,2020,"24,615","93,803","21,632"
+Ontario ,2021,"35,989","115,534","24,391"
+Ontario ,2022,"54,866","137,897","27,861"
+Ontario ,2023,"83,805","168,606","32,741"
+Ontario ,2024,"125,025","240,012","47,569"
+Manitoba,2017,119,"4,424",212
+Manitoba,2018,175,"4,745",282
+Manitoba,2019,304,"5,213",407
+Manitoba,2020,508,"5,600",523
+Manitoba,2021,875,"7,352",724
+Manitoba,2022,"1,495","9,261","1,066"
+Manitoba,2023,"2,475","11,829","1,528"
+Manitoba,2024,"3,840","16,136","2,453"
+Saskatchewan,2017,49,"2,413",128
+Saskatchewan,2018,83,"2,563",153
+Saskatchewan,2019,154,"2,777",202
+Saskatchewan,2020,314,"3,308",303
+Saskatchewan,2021,542,"4,330",427
+Saskatchewan,2022,935,"5,710",626
+Saskatchewan,2023,"1,478","7,617",946
+Saskatchewan,2024,"2,141","10,524","1,521"
+Alberta,2017,510,"16,328",837
+Alberta,2018,874,"17,833","1,118"
+Alberta,2019,"1,644","20,063","1,572"
+Alberta,2020,"2,607","22,369","1,986"
+Alberta,2021,"4,071","27,560","2,688"
+Alberta,2022,"6,669","34,246","3,796"
+Alberta,2023,"10,680","43,302","5,319"
+Alberta,2024,"15,792","58,497","8,413"
+British Columbia,2017,"5,711","39,919","3,168"
+British Columbia,2018,"9,654","44,288","5,276"
+British Columbia,2019,"19,765","50,819","9,248"
+British Columbia,2020,"32,091","56,313","12,916"
+British Columbia,2021,"48,266","68,700","17,380"
+British Columbia,2022,"69,092","81,771","22,794"
+British Columbia,2023,"98,031","95,693","28,275"
+British Columbia,2024,"133,390","116,170","37,622"
+Yukon,2017,8,151,4
+Yukon,2018,9,184,5
+Yukon,2019,15,213,10
+Yukon,2020,22,245,20
+Yukon,2021,47,303,53
+Yukon,2022,81,371,85
+Yukon,2023,148,436,121
+Yukon,2024,282,555,171
+Northwest Territories,2017,5,45,3
+Northwest Territories,2018,1,46,4
+Northwest Territories,2019,3,45,9
+Northwest Territories,2020,6,56,11
+Northwest Territories,2021,11,106,17
+Northwest Territories,2022,25,157,28
+Northwest Territories,2023,38,205,36
+Northwest Territories,2024,53,252,51
+Nunavut,2017,0,0,0
+Nunavut,2018,0,0,0
+Nunavut,2019,0,0,0
+Nunavut,2020,0,0,0
+Nunavut,2021,0,5,1
+Nunavut,2022,1,11,2
+Nunavut,2023,0,15,2
+Nunavut,2024,0,20,3
+,,,,
+,,,,
+,,,,
+,,,,
+Footnotes:,,,,
+1,"Starting with 2017 registration data, a new and improved method to assign vehicle types was used. As a result, comparisons to table 23-10-0067-01 is not recommended.",,,
+2,This table excludes vehicles that were determined to have no Gross Vehicle Weight Rate (GVWR) and/or unknown vehicles types.,,,
+3,"This tables excludes trailers and off-road categories such as snowmobiles, golf carts, etcetera.",,,
+4,"In 2017, in Prince Edward Island, school buses were shifted from annual renewable registration to a non-expiring registration. This accounts for the decline in the school bus registrations. For more information, please contact the PEI Department of Transportation, Infrastructure and Energy.",,,
+5,"A processing error was discovered and subsequently corrected by Prince Edward Island in 2018. As a result, the level of all categories of vehicles have shifted upward in 2018 compared to previous years. For more information, please contact the PEI Department of Transportation, Infrastructure and Energy.",,,
+6,"For Quebec, the 2023 count of heavy-duty vehicle registrations was revised upward based on updated information and estimation methods.",,,
+7,"For Ontario, vehicle counts were revised downward for reference year 2022. The counts initially included both active and expired vehicles due to a COVID-19 pandemic registration exemption that ended in February 2022. In addition, as of March 2022, Ontario eliminated licence plate renewal fees and stickers for passenger vehicles, light-duty trucks, motorcycles and mopeds. This led to a decrease in active registrations because some drivers overlooked the need to renew their plates, which explains part of the 3.3% decline in the 2023 counts. Beginning in July 2024, Ontario implemented an automatic registration renewal program for passenger vehicles, light-duty trucks, motorcycles and mopeds. This change contributed to an increase in active registrations in the province, as vehicles that might otherwise have lapsed were automatically renewed.",,,
+,,,,
+,,,,
+,,,,
+"How to cite: Statistics Canada. Table 23-10-0308-01  Vehicle registrations, by type of vehicle and fuel type",,,,
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2310030801,,,,
